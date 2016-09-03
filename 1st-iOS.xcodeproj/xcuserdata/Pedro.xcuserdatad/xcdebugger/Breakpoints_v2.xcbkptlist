@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1st-iOS/AppDelegate.swift"
+            timestampString = "493858026.44972"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_st_iOS.AppDelegate.__deallocating_deinit"
+                  moduleName = "1st-iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pedro/Documents/workspace/1st-iOS/1st-iOS/AppDelegate.swift"
+                  timestampString = "493858026.457637"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_st_iOS.AppDelegate.init (_st_iOS.AppDelegate.Type)() -&gt; _st_iOS.AppDelegate"
+                  moduleName = "1st-iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pedro/Documents/workspace/1st-iOS/1st-iOS/AppDelegate.swift"
+                  timestampString = "493858026.460372"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "1st-iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pedro/Documents/workspace/1st-iOS/1st-iOS/AppDelegate.swift"
+                  timestampString = "493858026.460753"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
